@@ -14,6 +14,6 @@ numbers = (int(input("How much multiples would you like: ")))
 if multiple == "yes":
     for i in range(1,numbers+1):
         print(f"{num} x {i} = {num*i}")
-
+	print("sample change")
 
 
